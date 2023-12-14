@@ -1,12 +1,11 @@
-
-  body {
+body {
     background-color: rgb(16, 22, 24);
   }
   * {
     font-family:monospace;
     font-weight:600;
     line-height: .25;
-    te: rgb(197, 208, 211);
+    color: rgb(197, 208, 211);
   }
   h1.console {
     font-size: 60;
