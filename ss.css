@@ -1,4 +1,4 @@
-<style>
+
   body {
     background-color: rgb(16, 22, 24);
   }
@@ -6,7 +6,7 @@
     font-family:monospace;
     font-weight:600;
     line-height: .25;
-    color: rgb(197, 208, 211);
+    te: rgb(197, 208, 211);
   }
   h1.console {
     font-size: 60;
@@ -30,14 +30,3 @@
   bottom: 0;
   width: 98.5%;
 }
-</style>
-
-<div class="console">
-  <h1 class="console">[oops]</h1>
-  <p class="console">> that's 404</p>
-  <p class="console">> that means that this page does not exist or has been removed</p>
-</div>
-
-<div class="sticky">
-  <p class="bottom">PentaClips ⭓ 2023</p>
-</div>
