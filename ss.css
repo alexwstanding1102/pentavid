@@ -80,6 +80,58 @@ h1.post1 {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+div.post2:hover {
+  background-color: rgb(9, 12, 14);
+}
+
+div.post2 {
+  background-color: rgb(12, 17, 19);
+  margin-top: 40px;
+  padding: 20px;
+  border-radius: 15px;
+  transition: .2s;
+}
+
+p.post2 {
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+  opacity: .8;
+  line-height: 1;
+}
+p.post3 {
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  opacity: .5;
+  padding-left: 10px;
+  font-weight:200;
+}
+h1.post2 {
+    font-size:20px;
+}
+h1.post3 {
+    font-size:44px;
+    font-weight: bolder;
+    padding: 5px;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
+
+
+
+
+
 ul {
 list-style-type: none;
 margin: 0;
