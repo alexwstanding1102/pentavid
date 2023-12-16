@@ -35,7 +35,6 @@
   transition: .2s;
 }
 
-
 div.sticky:hover {
   background-color: rgb(9, 12, 14);
 }
@@ -47,7 +46,9 @@ div.post {
   background-color: rgb(12, 17, 19);
   margin-top: 20px;
   padding: 20px;
+  margin-left: 50;
   border-radius: 15px;
+  width: 80%;
   transition: .2s;
 }
 
@@ -65,7 +66,7 @@ p.post1 {
   font-weight:200;
 }
 h1.post {
-    font-size:16px;
+    font-size:20px;
 }
 h1.post1 {
     font-size:40px;
@@ -162,7 +163,7 @@ a {
   text-decoration: none;
 }
 
-img {
+img.s {
   padding: 14px 16px;
 }
   
