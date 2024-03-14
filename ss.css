@@ -6,11 +6,16 @@
         font-family: monospace;
         line-height: .1;
         margin-left: 10;
+        transition-duration: .25;
     }
     .mh {
         font-size: 80;
     }
-    
+
+*:hover {
+  color: white;
+}
+
     a {
         text-decoration:none
     }
