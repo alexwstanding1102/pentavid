@@ -15,6 +15,9 @@
 a:hover {
   color: white;
 }
+a:visited {
+  color: pink;
+}
 
     a {
         text-decoration:none
